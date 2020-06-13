@@ -974,6 +974,7 @@ address {
 
 .overlay {
   position: relative;
+  overflow: hidden;
 }
 .portfolio-elements:hover .text-project,
 .portfolio-elements:focus .text-project {
